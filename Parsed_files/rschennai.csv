@@ -1,0 +1,7 @@
+City,Year,Accident_type, Pedestrian, Bicycles, Two-wheelers," Other modes of road transport (auto, bus, lorry)",Total
+Chennai,2016,Injuries,NA,NA,3774,3224,6998
+Chennai,2017,Injuries,NA,NA,2334,3001,5335
+Chennai,2018,Injuries,NA,NA,2553,2994,5547
+Chennai,2016,Fatalities,NA,NA,454,613,1067
+Chennai,2017,Fatalities,NA,NA,452,638,1090
+Chennai,2018,Fatalities,NA,NA,503,552,1055
