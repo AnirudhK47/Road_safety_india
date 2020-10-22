@@ -1,0 +1,7 @@
+City,Year,Accident_type, Pedestrian, Bicycles, Two-wheelers," Other modes of road transport (auto, bus, lorry)",Total
+Ahmedabad,2016,Injuries,606,76,787,231,315
+Ahmedabad,2017,Injuries,484,48,544,214,1290
+Ahmedabad,2018,Injuries,558,58,653,256,1525
+Ahmedabad,2016,Fatalities,125,11,96,83,315
+Ahmedabad,2017,Fatalities,126,15,71,82,294
+Ahmedabad,2018,Fatalities,132,14,110,64,320

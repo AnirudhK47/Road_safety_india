@@ -1,0 +1,7 @@
+City,Year,Accident_type, Pedestrian, Bicycles, Two-wheelers," Other modes of road transport (auto, bus, lorry)",Total
+Visakhapatnam,2016,Injuries,411,24,594,365,1394
+Visakhapatnam,2017,Injuries,365,12,626,366,1369
+Visakhapatnam,2018,Injuries,414,19,744,348,1525
+Visakhapatnam,2016,Fatalities,149,27,132,57,365
+Visakhapatnam,2017,Fatalities,133,8,146,46,333
+Visakhapatnam,2018,Fatalities,123,12,136,44,315

@@ -1,0 +1,7 @@
+City,Year,Accident_type,Pedestrian,Bicycles,Two-wheelers,Other modes of road transport auto;bus;lorry,Total
+Indore,2018,Injuries,1254,47,878,775,2954
+Indore,2018,Fatalities,130,1,90,101,322
+Indore,2017,Injuries,1598,68,1310,700,3676
+Indore,2017,Fatalities,148,6,161,76,391
+Indore,2016,Injuries,1863,63,1308,1029,4263
+Indore,2016,Fatalities,152,8,137,134,431

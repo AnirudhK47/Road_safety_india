@@ -1,0 +1,7 @@
+City,Year,Accident_type,Pedestrian,Bicycles,Two-wheelers,Other modes of road transport auto;bus;lorry,Total
+Nagpur,2016,Injuries,303,310,390,507,310
+Nagpur,2017,Injuries,209,47,384,645,1285
+Nagpur,2018,Injuries,188,80,312,603,1183
+Nagpur,2016,Fatalities,310,21,141,148,310
+Nagpur,2017,Fatalities,63,15,87,67,232
+Nagpur,2018,Fatalities,66,15,111,46,238

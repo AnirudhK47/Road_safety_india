@@ -1,0 +1,7 @@
+City,Year,Accident_type, Pedestrian, Bicycles, Two-wheelers," Other modes of road transport (auto, bus, lorry)",Total
+Lucknow,2016,Injuries,812,670,7754,5966,19320
+Lucknow,2017,Injuries,1543,1498,7662,7345,27494
+Lucknow,2018,Injuries,NA,NA,NA,NA,29664
+Lucknow,2016,Fatalities,555,392,5502,5161,19320
+Lucknow,2017,Fatalities,1192,994,5805,5155,20124
+Lucknow,2018,Fatalities,NA,NA,NA,NA,22256
