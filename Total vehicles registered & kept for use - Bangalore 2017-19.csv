@@ -1,0 +1,32 @@
+City,Category,Type of Vehicle,2017,2018,2019
+Bengaluru Metropolitan City,Non-Transport vehicles,Two wheelers,4731159,5134055,5588029
+Bengaluru Metropolitan City,Non-Transport vehicles,Cars,1321815,1432374,1541017
+Bengaluru Metropolitan City,Non-Transport vehicles,Jeep,7672,7784,8276
+Bengaluru Metropolitan City,Non-Transport vehicles,Omni buses,49117,49709,50628
+Bengaluru Metropolitan City,Non-Transport vehicles,Tractors,14638,15662,17230
+Bengaluru Metropolitan City,Non-Transport vehicles,Trailors,11150,11677,12846
+Bengaluru Metropolitan City,Non-Transport vehicles,Construction Equipment vehicle,2200,2343,3037
+Bengaluru Metropolitan City,Non-Transport vehicles,Other vehicles,27407,30617,31946
+Bengaluru Metropolitan City,Total -  Non-Transport vehicles,,6165158,6684220,7253009
+Bengaluru Metropolitan City,Transport vehicles,Multi Axled / Articulated Vehicles,43062,47566,51951
+Bengaluru Metropolitan City,Transport vehicles,Trucks & lorries,62495,65151,69667
+Bengaluru Metropolitan City,Total - Transport vehicles,,105557,112717,121618
+Bengaluru Metropolitan City,Light Goods vehicles,Four Wheelers,79455,87852,98989
+Bengaluru Metropolitan City,Light Goods vehicles,Three wheelers,43822,46303,49874
+Bengaluru Metropolitan City,Total - Light Goods vehicles,,123277,134155,148863
+Bengaluru Metropolitan City,Buses,Stage Carriages,14458,16121,16536
+Bengaluru Metropolitan City,Buses,Contract Carriages,2044,2236,2485
+Bengaluru Metropolitan City,Buses,Private Service Vehicle,10978,11350,11936
+Bengaluru Metropolitan City,Buses,Educational Institution Buses,9841,10953,12352
+Bengaluru Metropolitan City,Buses,Other Buses,5745,5927,5999
+Bengaluru Metropolitan City,Total Buses,,43066,46587,49308
+Bengaluru Metropolitan City,Taxies,Motor Cabs,91757,105062,117940
+Bengaluru Metropolitan City,Taxies,Maxi Cabs,35562,37762,40184
+Bengaluru Metropolitan City,Taxies,Other Taxies,13336,14426,15400
+Bengaluru Metropolitan City,Total Taxies,,140655,157250,173524
+Bengaluru Metropolitan City,LMV(passenger),Three Seaters(A/R),173584,185344,202033
+Bengaluru Metropolitan City,LMV(passenger),Four to Six Seaters,32592,33589,38703
+Bengaluru Metropolitan City,Total - LMV(passenger),,206176,218933,240736
+Bengaluru Metropolitan City,Other vehicles,,49191,52339,66972
+Bengaluru Metropolitan City,Total - Transport,,667922,721981,801021
+Bengaluru Metropolitan City,Total - Transport + Non-Transport,,6833080,7406202,8049891
